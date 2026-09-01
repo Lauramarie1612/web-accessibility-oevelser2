@@ -153,6 +153,10 @@ Hvis du ændrer siden først, har du ingen baseline at sammenligne med.
 5. Sammenlign
 ```
 
+Accessibility før forbedringer: 6
+
+![Lighthouse Accessibility test](./images/lighthousetest.png)
+
 ---
 
 # Opgave 2 – Giv siden en beskrivende `<title>`
