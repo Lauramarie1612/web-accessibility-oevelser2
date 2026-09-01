@@ -218,7 +218,7 @@ Viewport-indstillingen har betydning for:
 - zoom
 - reflow
 
----
+Jeg tilføjede en viewport meta-tag, så websitet bedre kan tilpasses forskellige skærmstørrelser. Det er vigtigt for responsive layouts på blandt andet mobil og tablet.
 
 # Opgave 4 – Forbedr den semantiske HTML
 
