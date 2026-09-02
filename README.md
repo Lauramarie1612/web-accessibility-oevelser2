@@ -330,6 +330,8 @@ Undersøg:
 
 > HTML-koden skal give mening uafhængigt af den visuelle styling.
 
+Jeg deaktiverede midlertidigt CSS'en for at kontrollere, om HTML-strukturen stadig gav mening uden visuel styling.
+
 ---
 
 # Opgave 6 – Undersøg headingstrukturen
