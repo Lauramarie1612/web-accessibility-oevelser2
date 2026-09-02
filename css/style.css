@@ -16,7 +16,6 @@ body {
   background-color: #2a607c;
   color: #ffffff;
 }
-
 .header .logo {
   display: inline-block;
   font-size: 48px;
@@ -25,7 +24,6 @@ body {
 .header .logo .seo {
   color: #d9dcd6;
 }
-
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
