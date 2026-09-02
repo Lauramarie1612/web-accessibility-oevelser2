@@ -596,6 +596,11 @@ a:focus-visible {
 
 Tilpas løsningen til designet.
 
+Siden blev testet med tastaturet ved hjælp af Tab, Shift + Tab og Enter.
+Alle navigationslinks kan nås med Tab.
+Links kan aktiveres med Enter.
+Fokus følger en logisk rækkefølge.
+
 ---
 
 # Opgave 12 – Test zoom, reflow og faste højder
